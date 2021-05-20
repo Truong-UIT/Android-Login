@@ -1,5 +1,5 @@
 # Android-Login
 
-File have SignIn, SignUp, SQLite.
+File have SignIn, SignUp, SQLite, Proguard.
 
 Install and unzip
